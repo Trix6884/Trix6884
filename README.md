@@ -1,4 +1,4 @@
-:-:::Z_-,
+👋
 
 <!---
 Trix6884/Trix6884 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

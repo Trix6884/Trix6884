@@ -2,9 +2,9 @@
 <div align="center">
 
 👩‍💻 About Me :
-- 👦 16-years old
-- 🔭 Currently interested about FiveM
-- 📖 Learning currently Lua
+ 👦 16-years old
+ 🔭 Currently interested about FiveM
+ 📖 Learning currently Lua
 
 ---
 ### :hammer_and_wrench: Languages and Tools :

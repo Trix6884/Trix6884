@@ -25,7 +25,7 @@ alt "HTML5" width="40" height="40"/>&nbsp;
 ### :fire: My Stats :  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Trix6884&theme=dark)](https://git.io/streak-stats)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Trix6884&layout=dark&langs_count3)](https://github.com/Trix6884/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Trix6884&layout=compact&langs_count3)](https://github.com/Trix6884/github-readme-stats)
 
 <!---
 Trix6884/Trix6884 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
 👩‍💻 About Me :
 - 🔭 Currently interested about FiveM
-- 📫How to reach me: [![Discord Badge](https://icons8.com/icon/99290/discord)](discord.com/users/461533096689401856)
+- 📖 Learning currently Lua
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
@@ -25,7 +25,7 @@ alt "HTML5" width="40" height="40"/>&nbsp;
 ### :fire: My Stats :  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Trix6884&theme=dark)](https://git.io/streak-stats)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-Trix6884&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Trix6884=your-Trix6884&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Trix6884/Trix6884 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

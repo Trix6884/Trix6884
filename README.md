@@ -1,6 +1,7 @@
 👩‍💻 About Me :
 - 🔭 Currently interested about FiveM
 - 📫How to reach me: [![Discord Badge](https://icons8.com/icon/99290/discord)](discord.com/users/461533096689401856)
+
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -12,6 +13,7 @@ alt "VS Code" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5"
 alt "HTML5" width="40" height="40"/>&nbsp;
 </div>
+
 ---  
 ### ☎️ Socials : 
 <div id="badges">

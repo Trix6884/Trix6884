@@ -1,4 +1,5 @@
 👩‍💻 About Me :
+- 👦 16-years old
 - 🔭 Currently interested about FiveM
 - 📖 Learning currently Lua
 

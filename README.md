@@ -17,7 +17,8 @@ alt "HTML5" width="40" height="40"/>&nbsp;
 
 ---  
 ### ☎️ Socials : 
-<div align="center id="badges">
+<div ="badges">
+<div align="center"
   <a href="https://www.youtube.com/channel/UCDwYr4f4ylpRYMN3kIUyqqA">
     <img src="https://cdn-icons-png.flaticon.com/128/3670/3670147.png" alt="Youtube Badge"/>
      </a>

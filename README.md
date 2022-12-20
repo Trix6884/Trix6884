@@ -2,9 +2,11 @@
 - Currently learning Lua
 
 Socials
-<img align="left" width="22px"
-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /
-href="https://www.youtube.com/channel/UCDwYr4f4ylpRYMN3kIUyqqA">
+
+<div id="badges">
+  <a href="https://www.youtube.com/channel/UCDwYr4f4ylpRYMN3kIUyqqA">
+    <img src="https://cdn-icons-png.flaticon.com/128/3670/3670147.png" alt="Youtube Badge"/>
+     </a>
 
 <!---
 Trix6884/Trix6884 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -11,11 +11,11 @@
 <div align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original-wordmark.svg" title="Lua"
-alt "Lua" width="40" height="40"/>&nbsp;
+alt "Lua" width="60" height="60"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VS Code"
-alt "VS Code" width="40" height="40"/>&nbsp;
+alt "VS Code" width="60" height="60"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5"
-alt "HTML5" width="40" height="40"/>&nbsp;
+alt "HTML5" width="60" height="60"/>&nbsp;
 </div>
 
 ---  

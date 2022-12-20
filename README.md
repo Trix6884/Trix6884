@@ -19,13 +19,10 @@ alt "HTML5" width="40" height="40"/>&nbsp;
 <div id="badges">
   <a href="https://www.youtube.com/channel/UCDwYr4f4ylpRYMN3kIUyqqA">
     <img src="https://cdn-icons-png.flaticon.com/128/3670/3670147.png" alt="Youtube Badge"/>
-    width="40" height="40"
      </a>
   
 ---
-### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=your-Trix6884
-  
+### :fire: My Stats :  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-Trix6884&theme=dark&background=000000)](https://git.io/streak-stats)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-Trix6884&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)

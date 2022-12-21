@@ -4,7 +4,7 @@
 ### 👩‍💻 About Me :
  👦 16-years old
  🔭 Currently interested about FiveM
- 📖 Learning currently Lua
+ 📖 Learning Lua
 
 ---
 ### :hammer_and_wrench: Languages and Tools :

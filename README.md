@@ -1,6 +1,7 @@
- <!---<img align="center" --->
-<p align="center">
-alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%3Fitemid%3D15828752">
+<img src="https://github.com/microsoft/fluentui-emoji/blob/main/assets/Grinning%20face%20with%20smiling%20eyes/3D/grinning_face_with_smiling_eyes_3d.png?raw=true" align="left" width="250" alt="Smile"/>
+
+### Hi there 👋 I am Trix.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=trix6884" alt="trix6884" /> </p>
 
 <h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
 

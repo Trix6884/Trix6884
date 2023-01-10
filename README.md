@@ -4,7 +4,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trix6884&show_icons=true&theme=radical)
 
 
-### 🛠️ Languages and Tools
+### :hammer_and_wrench: Languages and Tools
 <div align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original-wordmark.svg" title="Lua"
@@ -12,12 +12,10 @@ alt "Lua" width="60" height="60"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VS Code"
 alt "VS Code" width="60" height="60"/>&nbsp;
 </div>
-
-
-
-
-
-<!---
+ 
+ 
+ 
+ <!---
 --<div align="center">
 
 ### 👩‍💻 About Me :

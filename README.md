@@ -14,8 +14,6 @@
 alt "Lua" width="60" height="60"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VS Code"
 alt "VS Code" width="60" height="60"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5"
-alt "HTML5" width="60" height="60"/>&nbsp;
 </div>
 
 ---  

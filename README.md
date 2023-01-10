@@ -40,7 +40,7 @@
 
 <p align = "left">
   <img  src = "https://github-readme-stats.vercel.app/api?username=trix6884&show_icons=true&theme=radical&line_height=25">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=trix6884&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical&line_height=25">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=trix6884&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical&line_height=25&line_width=25">
 </p>
 
 <p align = "left">

@@ -1,4 +1,7 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Trix6884=anuraghazra&show_icons=true&theme=radical)
+[![MasterHead](https://cdn.discordapp.com/attachments/1044965527203893290/1062457378219503666/wull.jpg)](https://github.com/Trix6884)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trix6884&show_icons=true&theme=radical)
 
 
 

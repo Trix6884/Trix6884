@@ -1,8 +1,6 @@
 [![MasterHead](https://cdn.discordapp.com/attachments/1044965527203893290/1062457378219503666/wull.jpg)](https://github.com/Trix6884)
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trix6884&show_icons=true&theme=radical)
-
+![](https://komarev.com/ghpvc/?username=trix6884&color=blue)
 
 ### :hammer_and_wrench: Languages and Tools
 <div align="center">

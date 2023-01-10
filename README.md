@@ -1,7 +1,7 @@
 <img src="https://github.com/microsoft/fluentui-emoji/blob/main/assets/Grinning%20face%20with%20smiling%20eyes/3D/grinning_face_with_smiling_eyes_3d.png?raw=true" align="right" width="250" alt="Smile"/>
 
 ### Hi there 👋 
-My name is Trix.
+*My name is Trix.*
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trix6884" alt="trix6884" /> </p>
 
 

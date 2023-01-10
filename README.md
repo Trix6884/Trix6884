@@ -1,13 +1,13 @@
-<img src="https://github.com/microsoft/fluentui-emoji/blob/main/assets/Grinning%20face%20with%20smiling%20eyes/3D/grinning_face_with_smiling_eyes_3d.png?raw=true" align="center" width="200" alt="Smile"/>
+<img src="https://github.com/microsoft/fluentui-emoji/blob/main/assets/Grinning%20face%20with%20smiling%20eyes/3D/grinning_face_with_smiling_eyes_3d.png?raw=true" align="center" width="250" alt="Smile"/>
 
 ### Hi there 👋 I am Trix.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trix6884" alt="trix6884" /> </p>
 
 
 
-<h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
+<h2 align="left">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
 
-<p align="center">
+<p align="left">
 <img src="https://img.shields.io/badge/-lua-E34A86?style=flat-square&logo=java"/>
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>

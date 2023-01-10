@@ -15,15 +15,7 @@ alt "Lua" width="60" height="60"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VS Code"
 alt "VS Code" width="60" height="60"/>&nbsp;
 </div>
-
----  
-### ☎️ Socials : 
-<div ="badges">
-<div align="center"
-  <a href="https://www.youtube.com/channel/UCDwYr4f4ylpRYMN3kIUyqqA">
-    <img src="https://cdn-icons-png.flaticon.com/128/3670/3670147.png" alt="Youtube Badge"/>
-     </a>
-  
+ 
 ---
 ### :fire: My Stats :  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Trix6884&theme=dark)](https://git.io/streak-stats)

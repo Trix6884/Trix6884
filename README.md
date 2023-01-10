@@ -1,16 +1,18 @@
-[![MasterHead](https://cdn.discordapp.com/attachments/1044965527203893290/1062457378219503666/wull.jpg)](https://github.com/Trix6884)
-
-![](https://komarev.com/ghpvc/?username=trix6884&color=blue)
-
-### :hammer_and_wrench: Languages and Tools
-<div align="center">
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original-wordmark.svg" title="Lua"
-alt "Lua" width="60" height="60"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VS Code"
-alt "VS Code" width="60" height="60"/>&nbsp;
-</div>
+<!--  https://ritik307.github.io/portfolio/  -->
+<p align="center">
  
+</p align="center">
+<img src="https://github.com/ritik307/ritik307/blob/main/images/newbg(1).png" />
+
+<p align="center">
+ 
+ <img src="https://badges.pufler.dev/visits/ritik307/ritik307"/> 
+ <!-- <img src="https://badges.pufler.dev/years/ritik307"/> -->
+ <img src="https://badges.pufler.dev/repos/ritik307"/>
+ <img src="https://badges.pufler.dev/commits/monthly/ritik307" />
+
+</p>
+
  
  
  <!---

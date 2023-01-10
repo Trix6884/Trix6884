@@ -24,7 +24,7 @@
 <p align="center">
   <a>
  <a href="https://www.youtube.com/channel/UCDwYr4f4ylpRYMN3kIUyqqA">
- <img src="https://img.shields.io/badge/-ritikhere307-blue?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCDwYr4f4ylpRYMN3kIUyqqA"/>
+ <img src="https://img.shields.io/badge/-trix6884-red?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCDwYr4f4ylpRYMN3kIUyqqA"/>
 </a>
 </p>
 

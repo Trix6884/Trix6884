@@ -1,5 +1,16 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Trix6884=anuraghazra&show_icons=true&theme=radical)
 
-<div align="center">
+
+
+
+
+
+
+
+
+
+<!---
+--<div align="center">
 
 ### 👩‍💻 About Me :
  👦 16-years old

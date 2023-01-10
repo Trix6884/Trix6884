@@ -3,7 +3,17 @@
 
 ---
 
-<img align="center" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%3Fitemid%3D15828752">
+<img align="center" 
+alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%3Fitemid%3D15828752">
+
+<p align="center">
+ 
+ <img src="https://badges.pufler.dev/visits/ritik307/ritik307"/> 
+ <!-- <img src="https://badges.pufler.dev/years/ritik307"/> -->
+ <img src="https://badges.pufler.dev/repos/ritik307"/>
+ <img src="https://badges.pufler.dev/commits/monthly/ritik307" />
+
+</p>
 
 <p align="center">
   16 years old living at Finland. Currently widely interested of coding. Contributing to FiveM code, and getting more better at Lua. 

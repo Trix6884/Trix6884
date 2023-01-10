@@ -5,9 +5,6 @@
 
 
 
-
-
-
 <h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
 
 <p align="center">
@@ -18,9 +15,9 @@
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
 
-<h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
+<h2 align="left">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 
-<p align="center">
+<p align="left">
   <a>
  <a href="https://www.youtube.com/channel/UCDwYr4f4ylpRYMN3kIUyqqA">
  <img src="https://img.shields.io/badge/-trix6884-red?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCDwYr4f4ylpRYMN3kIUyqqA"/>
@@ -28,29 +25,29 @@
 </p>
 
 
-<h2 align="center">
+<h2 align="left">
   My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
 </h2>
-<p align="center">
+<p align="left">
   <img src="https://github.com/ritik307/ritik307/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
-<h2 align="center">
+<h2 align="left">
   My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 </h2>
  
 <br>
 
-<p align = "center">
+<p align = "left">
   <img  src = "https://github-readme-stats.vercel.app/api?username=trix6884&show_icons=true&theme=radical&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=trix6884&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
 </p>
 
-<p align = "center">
+<p align = "left">
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=trix6884&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p> 
 
-<p align = "center">
+<p align = "left">
  <img src="https://activity-graph.herokuapp.com/graph?username=trix6884&theme=redical">
 </p> 
 <hr>

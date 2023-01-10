@@ -1,4 +1,7 @@
+<p align="center>
 ![](https://komarev.com/ghpvc/?username=trix6884&color=blue)
+          </p>
+
 
 <p align="center">
  👩‍💻 About Me: 👦 16-years old, 🔭 Currently interested about FiveM, 📖 Learning Lua
